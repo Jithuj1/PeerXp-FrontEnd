@@ -1,0 +1,96 @@
+.dept1{
+    width: 100vw;
+    height: 20vh;
+    padding-right: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+.AddNew{
+    background-color: rgb(119, 107, 89);
+    height: 3rem;
+    width: 12rem;
+    border: None;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.tableMain{
+    width: 80%;
+}
+
+.tableTop{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    width: 9rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(108, 144, 175);
+    border: none;
+    border-radius: 10px;
+}
+.delete{
+    background-color: rgb(201, 125, 125);
+}
+.registration_form_user{
+    margin: 5rem;
+    height: 60vh;
+    background-color: rgb(112, 131, 130);
+}
+.updatingForm{
+    padding: 4rem;
+}
+.Updatingtextbox{
+    width: 20rem;
+}
+.customModalParent{
+    height: 20rem;
+    width: 100%;
+    background-color: rgb(139, 146, 146);
+}
+.customModal{
+    height: 20rem;
+    width: 40rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: rgb(112, 131, 130);
+}
+.ModalOptions{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ticketHeading{
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 4rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+}

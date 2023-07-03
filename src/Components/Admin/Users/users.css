@@ -1,0 +1,10 @@
+.selectBox{
+    width: 100%;
+    height: 2.5rem;
+}
+.updatingDepartmentNameBox{
+    width: 20rem;
+    height: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
